@@ -1,0 +1,1 @@
+function checkIt( v ) {	if( v.length == 0 ) return;	show( v );	$('body,html').animate({scrollTop: 0}, 800);	return true;}

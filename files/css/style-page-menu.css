@@ -1,0 +1,48 @@
+body{
+font-size: 10pt;
+font-family: Arial;
+margin: 0;
+width: 100%;
+}
+
+ul.simple { list-style-type: none }
+li ul {	margin-top: 0.6em;}
+li {
+margin-top: 0.6em;
+margin-bottom: 0.6em;
+}
+
+body {height:100%}
+#navigation{
+margin:0;
+width: 100%;
+}
+
+#navigation ul
+ {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+}
+#navigation li a {
+          voice-family: "\"}\"";
+          voice-family: inherit;
+          height: 24px;
+          text-decoration: none;
+}
+#navigation li a:link,#navigation li a:visited 
+{
+        color: #656556;
+        display: block;
+        background:  url('../i/Buttun_Normal.gif');
+        padding: 8px 0 0 2px;
+}
+
+
+#navigation li a:hover, #navigation li #current 
+{
+        color: #474739;
+        display: block;
+        background:  url('../i/Buttun_Current.gif');
+        padding: 8px 0 0 2px;
+}

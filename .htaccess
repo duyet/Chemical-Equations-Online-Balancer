@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteBase /pthh/
+RewriteRule ^(.*)\.html$ $1.php [R,L]
+

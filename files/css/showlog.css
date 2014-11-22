@@ -1,0 +1,8 @@
+.pagenav { width:100%; margin:10px; text-align:center}
+.pagenav a{ text-decoration: none; font-weight:bold; padding:10px;  font-size: 110%; color: #2495FB}
+.pagenav .currentpage { background:#1790F9; padding:10px; color:#EFEFEF; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.logs_table table { margin-top: 10px; width:80%; text-align:center; border:1px solid #1F90FA}
+.logs_table table tr td{ border-bottom:1px solid #1F90FA }
+.logs_table table tr td.pt { font-weight:bold; color:#000000; width:60% }
+.logs_table table tr td.time { font-size: 90%; color:#757D8A; width: 25% }
+.logs_table table tr td.checkit input{ border:1px solid #198FF9; background:#FFFFFF; color:#198FF9 }

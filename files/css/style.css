@@ -1,0 +1,36 @@
+#kq_canbang {color:#FF8A00;}
+.result {margin: 5px auto;}
+.table_result {border:0; width:100%; height:40px; margin-bottom: 50px;}
+tr td.result_h{
+	margin:0!imporant;
+	width:100px;
+	height:100%;
+	-webkit-border-radius: 0.1em;
+	-moz-border-radius: 0.1em;
+	border-radius: 0.1em;
+	text-align: center;
+}
+
+.clear_button {
+	display:none;
+	text-align:right;
+	margin-right:0;
+}
+
+#kq_codeOutput u{
+	background: red;
+}
+
+#kq_canbang, #kq_message, #kq_codeOutput {
+	font-size:2.2em;
+	padding-left:4px;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25)
+}
+
+.exam_table tr td{
+	padding:10px;
+}
+
+.t-r-button {
+	text-align:center;
+}
